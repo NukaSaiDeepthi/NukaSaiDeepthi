@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nuka Sai Deepthi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Girl trying to figure-out stuff!!</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/NukaSaiDeepthi](https://github.com/NukaSaiDeepthi)
 
